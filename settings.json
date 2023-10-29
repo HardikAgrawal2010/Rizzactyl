@@ -6,7 +6,7 @@
     "secret": "@"
   },
   "pterodactyl": {
-    "domain": "https://pane.domain",
+    "domain": "https://panel.iron.lat",
     "key": ""
   },
   "database": "database.sqlite",
@@ -43,8 +43,8 @@
           "servers": 0
         },
         "j4rads": [{
-          "name": "Reliactyl Development",
-          "invite": "https://discord.gg/neXYF47STz"
+          "name": "Rizzactyl Development",
+          "invite": "https://discord.gg/zQnxK6MqzY"
         }]
       },
       "bot": {
@@ -61,7 +61,7 @@
         "_comment": "URL of the webhook to send messages to.",
         "webhook_url": "",
         "auditlogs": {
-          "_comment": "This feature allows you to log actions, and get an overview of a users actions (only works if done with reliactyl, not ptero)",
+          "_comment": "This feature allows you to log actions, and get an overview of a users actions (only works if done with Rizzactyl, not ptero)",
           "enabled": false,
           "_comment2": "The types of notifications disabled. Values: ADMIN, LOGIN, SERVER, COUPONREDEEM",
           "disabled": []
